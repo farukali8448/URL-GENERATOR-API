@@ -8,7 +8,7 @@ app.use(express.json());
 
 
 //!DATABASE Connection
-require("./db/con");
+require("./db/conn");
 
 
 //! PORT
